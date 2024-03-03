@@ -1,0 +1,1 @@
+The Online Food Delivery Platform connects users with local restaurants and food vendors, allowing them to order food for delivery or pickup through a convenient mobile app or website.
